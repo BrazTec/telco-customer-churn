@@ -1,0 +1,18 @@
+{
+  "python": "3.11.9",
+  "python_implementation": "CPython",
+  "system": "Windows",
+  "machine": "AMD64",
+  "recorded_at_utc": "2026-10-29T20:01:33.742263+00:00",
+  "packages": {
+    "numpy": "2.3.3",
+    "pandas": "3.0.1",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.10.6",
+    "kagglehub": "1.0.2",
+    "ipython": "9.7.0",
+    "ipykernel": "7.1.0"
+  },
+  "dataset": "blastchar/telco-customer-churn",
+  "scope": "Ambiente do kernel no momento do registro; dependências diretas."
+}

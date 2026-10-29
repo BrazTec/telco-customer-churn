@@ -1,0 +1,9 @@
+# Python 3.11.9
+# Dependências diretas registradas pelo kernel do notebook.
+numpy==2.3.3
+pandas==3.0.1
+scikit-learn==1.8.0
+matplotlib==3.10.6
+kagglehub==1.0.2
+ipython==9.7.0
+ipykernel==7.1.0
